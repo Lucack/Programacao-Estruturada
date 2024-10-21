@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "PROG2.C": "cpp"
+        "PROG2.C": "cpp",
+        "stdio.h": "c"
     }
 }
